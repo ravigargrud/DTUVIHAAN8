@@ -1,0 +1,15 @@
+fastapi 
+uvicorn
+twilio
+python-multipart
+websockets
+openai-whisper
+numpy
+soundfile
+pywav
+scipy
+pymongo[srv]
+mongoengine
+gtts
+google.generativeai
+pymupdf

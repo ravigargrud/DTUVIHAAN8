@@ -1,0 +1,6 @@
+.venv
+__pycache__
+twilio_audio*.wav
+output.*
+*.raw
+.env
